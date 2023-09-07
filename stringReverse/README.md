@@ -23,8 +23,7 @@ public class stringReverse {
     public static void main(String[] args) {
         String originalString = "hello";
         String reversedString = reverseString(originalString);
-        System.out.println("Initial string : " + originalString);
-        System.out.println("Reversed string : " + reversedString);
+        System.out.println(reversedString);
 
     }
 }
@@ -33,6 +32,5 @@ public class stringReverse {
 Output :
 
 ```bash
-Initial string : hello
-Reversed string : olleh
+olleh
 ```
