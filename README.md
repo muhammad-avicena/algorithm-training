@@ -1,6 +1,8 @@
+[![readme_header](https://github.com/muhammad-avicena/profile/assets/49929404/b7b89034-8e25-4f25-a1a2-5665aa66448c)](https://avicena.dev/)
+
 <h1 align="center">Fancy to see you here <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
-hi, I'm Muhammad Avicena. 🚀 This repository is dedicated to solving a wide range of algorithm questions, from easy to advanced, to help sharpen my problem-solving skills and prepare for technical interviews.
+hi, I'm Muhammad Avicena. 🚀 This repository is dedicated to solving a wide range of algorithm questions, from easy to advanced, to help sharpen your problem-solving skills and prepare for technical interviews.
 
 I am committed to staying up-to-date with industry trends and using the latest tools to develop innovative solutions that surpass expectations.
 Interested to have collaboration ? Find me on:
