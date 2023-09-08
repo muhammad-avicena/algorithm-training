@@ -1,6 +1,6 @@
 ### Questions
 
-Create a function that accepts 0-n parameters and adds them together (or multiplies)
+Create a function that accepts 0-n parameters and adds them together (or multiplies).
 
 ```bash
 Input: 5
